@@ -1,0 +1,1 @@
+pip install -r tutorial/requirements.txt
